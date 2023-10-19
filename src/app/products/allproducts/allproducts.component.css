@@ -1,0 +1,27 @@
+.carousel > .carousel-inner > .carousel-item > img{
+    width:100%; /* Yeap you can change the width and height*/
+    height:600px;
+}
+
+img{
+    height: 280px;
+}
+
+.btn1{
+   background-color:#1a0000;
+   color: white;
+}
+
+.card{
+    background-color: whitesmoke;
+    
+}
+
+.card-img-top {
+    max-width: 100%;
+    max-height: 70%;
+    background-position: center center;
+    background-repeat: no-repeat;  
+}
+
+

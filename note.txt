@@ -1,0 +1,38 @@
+e-cart
+-------
+
+-lazy loading
+
+lazy loaded module
+------------------
+all components inside this module are lazy loaded components
+
+ng g module products --route products --module app.module
+             (name)       (name)
+
+ng g m site-layout
+        (name)
+
+
+- install json server
+---------------------
+
+->npm i --save json server
+db.json database
+server-json-server
+run->npx json-server --watch db.json --port 3000
+
+1-dress
+2-tops
+3-bottom wears
+
+Url params
+----------
+ActivateRoute - class used to access params
+params - method - asynchronous
+
+module to module data sharing
+------------------------------
+
+BehaviorSubject is a type of subject, a special type of observable in RxJS, that keeps track of the current value and emits it to new subscribers. It is similar to a regular subject, but it also stores the latest value that has been passed to it.
+

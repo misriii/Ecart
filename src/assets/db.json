@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Maxi dress",
+      "categoryId": 1,
+      "description": "Fabric: Georgette Sleeves Length: Short Sleeves Pattern: Printed Net Quantity (N): 1 Sizes M (Bust Size: 38 in) L (Bust Size: 40 in) XL (Bust Size: 42 in) XXL (Bust Size: 44in) Country of Origin: India",
+      "price": "1099",
+      "image": "https://i.postimg.cc/QC53XRNh/wsdfghjk-1-2.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "blue jeans",
+      "categoryId": 3,
+      "description": "Jeans feature an attractive design, which makes them appealing and a must-have. Made from finest fabric, these jeans are light in weight and comfortable to wear. Double your fashion flair and flaunt your new and refreshing look this season with these jeans",
+      "price": 899,
+      "image": "https://i.postimg.cc/5ywZwzMY/MP000000016432787-437-Wx649-H-202302080245391.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Crop top",
+      "categoryId": 2,
+      "description": "A Premium quality Rib Womens and Girls Collar Top Full Sleeve Top in Lycra Rib fabric, Unlined, Regular Length and Comfort Fit. It comes with great stitching and color which never fades away. This pretty Rib Women's and Girls Collar Top Full Sleeve Top has elegant design made with high quality Rib fabric for all day comfort and suitable to wear with jeans, skirts, tops, trousers, etc. for elegant western look.",
+      "price": 650,
+      "image": "https://i.postimg.cc/HWQKvbfj/1.webp"
+    },
+    {
+      "id": 4,
+      "productName": "round neck tops",
+      "categoryId": 2,
+      "description": "A Premium quality Rib Womens and Girls Collar Top Full Sleeve Top in Lycra Rib fabric, Unlined, Regular Length and Comfort Fit. It comes with great stitching and color which never fades away. This pretty Rib Women's and Girls Collar Top Full Sleeve Top has elegant design made with high quality Rib fabric for all day comfort and suitable to wear with jeans, skirts, tops, trousers, etc. for elegant western look.",
+      "price": 700,
+      "image": "https://i.postimg.cc/43vwg1f2/m-204-black-aahwan-original-imagn5hk2xjdzatj.webp"
+    },
+    {
+      "id": 5,
+      "productName": "beige pants",
+      "categoryId": 3,
+      "description": "New Essence of Summer Fashion to add to your Wardrobe. Get the All-New Collection of Cotton Joggers from Mode by RedTape. Well-crafted using 160 GSM fabric made a perfect mix of Cotton and Spandex in a Woven Pattern which makes it perfect for styling your Summer Outfits for every occasion.",
+      "price": 1050,
+      "image": "https://i.postimg.cc/y8xkB67M/300933579-BEIGE-1-1024x1024.webp"
+    },
+    {
+      "id": 6,
+      "productName": "Maxi dress",
+      "categoryId": 1,
+      "description": "Boasting a stylish A-line design and fit and flare style, the Purshottam Wala Women’s Printed A-line Fit and Flare Dress will become your favourite choice for parties and festive occasions. And, its fit and flare design makes this dress flared from the waist down, for a feminine and chic look.",
+      "price": 1500,
+      "image": "https://i.postimg.cc/d3WqpcbJ/s-pwd322-purshottam-wala-original-imagm7ypaavduvnm.webp"
+    },
+    {
+      "id": 7,
+      "productName": "beige pants",
+      "categoryId": 3,
+      "description": "",
+      "price": 1050,
+      "image": "https://i.postimg.cc/GhCbqLBF/6704521-1093202.webp"
+    },
+    {
+      "id": 8,
+      "productName": "light blue jeans",
+      "categoryId": 3,
+      "description": "blue hight waist jeans",
+      "price": 999,
+      "image": "https://i.postimg.cc/wTrMF8pg/images-1.jpg"
+    },
+    {
+      "id": 9,
+      "productName": "Maxi dress",
+      "categoryId": 1,
+      "description": "Get the sensational look of the season with the Red Floral Printed Ruched Bodycon Mini Dress from Nikchi Hub. With its appealing bodycon outline, your figure will naturally attain the hourglass silhouette and with the sleeveless design, your body stays properly ventilated. The overall ruched design saves your party look from becoming monotonous. The back ruched design along with the concealed zipper closure helps your dress to get a smart appearance along with optimal support. The mini length design of the dress brings illumination of a taller appearance. Moreover, the bottom becomes majestic with the flounce hemline and the overall appearance looks chic. Style this super charming mini dress with white low-top sneakers and bring a new trend in casual fashion wit",
+      "price": 1050,
+      "image": "https://i.postimg.cc/NjVf4Ytt/na-m-sleeveless-stitched-g-2-maxi-yagnam-fab-na-original-imagsz9zvjhvf5aw.webp"
+    },
+    {
+      "id": 10,
+      "productName": "Black jeans",
+      "categoryId": 3,
+      "description": "black high waist jeans",
+      "price": 999,
+      "image": "https://i.postimg.cc/Kj4HJXxX/34-kttladiesjeans1049-kotty-original-imagg47mth2ud3g5.webp"
+    },
+    {
+      "id": 11,
+      "productName": "Kurtha set",
+      "categoryId": 1,
+      "description": "Featuring sophisticated yet elegant cotton suit set. Which is decorated with beautiful detail and prints. It is very effortless and chic design that you must have in your wardrobe.Manufacturing, Packaging and Import Info",
+      "price": 1000,
+      "image": "https://i.postimg.cc/C5WFSsx2/m-nayra-cut-jaatni-comfort-wear-original-imagpgkrzkzbaana.webp"
+    },
+    {
+      "id": 12,
+      "productName": "round neck tops",
+      "categoryId": 2,
+      "description": "round neck top",
+      "price": 700,
+      "image": "https://i.postimg.cc/9f4JqPmb/xl-top117-rajovati-original-image7fxmkxtsbgv.webp"
+    },
+    {
+      "id": 13,
+      "productName": "white jeans",
+      "categoryId": 3,
+      "description": "",
+      "price": 1050,
+      "image": "https://i.postimg.cc/2yjWnmdY/28-ttjn002759-tokyo-talkies-original-imaggzfr4stuphkq.webp"
+    },
+    {
+      "id": 14,
+      "productName": "Maxi dress",
+      "categoryId": 1,
+      "description": "Maxi dress",
+      "price": 1500,
+      "image": "https://i.postimg.cc/sx3YK5rt/xxl-6101-sheetal-associates-original-imagmnemtrdhgrnc.webp"
+    },
+    {
+      "id": 15,
+      "productName": "Brown pants",
+      "categoryId": 3,
+      "description": "Elevate your wardrobe with these organic jeans from (SKG GROUP) - the perfect foundation for any stylish ensemble. The boyfriend fit silhouette and five-pocket design offer both comfort and contemporary appeal, while the high-waisted fit, zip fly closure, and metal button fastening add the finishing touches to this fashionable piece. Please note that our sizes are based on international standards, so we recommend ordering one size up if you prefer a more relaxed fit. Additionally, please be aware that the colour of the actual product may vary slightly due to studio lighting and photographic effects.",
+      "price": 1050,
+      "image": "https://i.postimg.cc/QCkJQ0WL/36-brown-cargo-bluelock-original-imagpkjyk2jsbh93.webp"
+    },
+    {
+      "id": 16,
+      "productName": "Crop top",
+      "categoryId": 2,
+      "description": "Blue women top with full sleeve",
+      "price": "699",
+      "image": "https://i.postimg.cc/v81gGTxV/l-gr6201-blue-harpa-original-imafzt9tujn9m6te-bb.webp"
+    }
+  ]
+}
